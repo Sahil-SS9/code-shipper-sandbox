@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b
+    return str(a) + str(b)  # normalise mixed input types
 
 
 def divide(a, b):
