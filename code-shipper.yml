@@ -2,4 +2,4 @@ version: 1
 approvals:
   - count: 2
     approvers: [Sahil-SS9]
-    observe: true
+    observe: false
